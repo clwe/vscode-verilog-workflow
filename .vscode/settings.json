@@ -1,0 +1,5 @@
+{
+    "verilog.linting.linter": "iverilog",
+    "verilog.linting.iverilog.arguments": "-Wall -g2001",
+    "verilog.languageServer.svls.enabled": true
+}
